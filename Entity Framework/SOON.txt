@@ -1,0 +1,2 @@
+I will add the entity framework course soon.
+Enjoy learning C#!
